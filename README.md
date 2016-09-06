@@ -1,8 +1,8 @@
-# Valckr
+# Val'ckr
 
 ¿Qué hace la aplicación? 
 
-Valckr es una aplicación que categoriza fotos y lugares otorgando mayor fiabilidad a la información.
+Val'ckr es una aplicación que categoriza fotos y lugares de Valparaíso por medio de Flickr otorgando mayor fiabilidad a la información.
 
 ¿Cómo lo hace? 
 
