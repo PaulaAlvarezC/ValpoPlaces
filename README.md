@@ -2,7 +2,7 @@
 
 ¿Qué hace la aplicación? 
 
-ValpoPlace es una aplicación que categoriza fotos y lugares otorgando mayor fiabilidad a la información.
+Valckr es una aplicación que categoriza fotos y lugares otorgando mayor fiabilidad a la información.
 
 ¿Cómo lo hace? 
 
