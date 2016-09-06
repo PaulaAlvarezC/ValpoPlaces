@@ -1,4 +1,4 @@
-# ValpoPlaces
+# Valckr
 
 ¿Qué hace la aplicación? 
 
